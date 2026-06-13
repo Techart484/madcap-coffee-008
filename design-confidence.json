@@ -1,0 +1,27 @@
+{
+  "overall": 0.95,
+  "modules": [
+    {
+      "module": "Products",
+      "score": 1,
+      "notes": [
+        "no products detected"
+      ]
+    },
+    {
+      "module": "Features",
+      "score": 1,
+      "notes": [
+        "no sections detected"
+      ]
+    },
+    {
+      "module": "Nav",
+      "score": 0.85,
+      "notes": [
+        "very short nav — may indicate truncated scrape"
+      ]
+    }
+  ],
+  "passedThreshold": false
+}
